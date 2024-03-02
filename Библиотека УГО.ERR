@@ -1,0 +1,6 @@
+Component Rule Check Report for : C:\Users\slagt\Documents\Altium Projects\AltiumLabsSWSU\Библиотека УГО.SchLib
+
+
+Name                Errors
+------------------------------------------------------------------
+НЕ-И                (Missing Pin Number In Sequence : 4,5,6,8,9,10,11,12,13 [1..14]) 
