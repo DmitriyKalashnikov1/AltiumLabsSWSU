@@ -1,0 +1,54 @@
+Added Component: Designator=D1(DIP14)
+Added Component: Designator=D2(DIP14)
+Added Component: Designator=D3(DIP14)
+Added Pin To Net: NetName=1 Pin=D1-4
+Added Pin To Net: NetName=1 Pin=D1-5
+Added Pin To Net: NetName=1 Pin=D3-3
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=D1-9
+Added Pin To Net: NetName=2 Pin=D1-10
+Added Pin To Net: NetName=2 Pin=D3-6
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=D2-9
+Added Pin To Net: NetName=3 Pin=D2-10
+Added Pin To Net: NetName=3 Pin=D3-9
+Added Pin To Net: NetName=3 Pin=D3-10
+Added Pin To Net: NetName=3 Pin=D3-11
+Added Net: Name=3
+Added Pin To Net: NetName=5 Pin=D1-1
+Added Pin To Net: NetName=5 Pin=D2-6
+Added Pin To Net: NetName=5 Pin=D3-5
+Added Pin To Net: NetName=5 Pin=D3-13
+Added Net: Name=5
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-6
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD1_3 Pin=D1-3
+Added Pin To Net: NetName=NetD1_3 Pin=D2-1
+Added Pin To Net: NetName=NetD1_3 Pin=D2-2
+Added Net: Name=NetD1_3
+Added Pin To Net: NetName=NetD1_8 Pin=D1-8
+Added Pin To Net: NetName=NetD1_8 Pin=D2-12
+Added Pin To Net: NetName=NetD1_8 Pin=D2-13
+Added Net: Name=NetD1_8
+Added Pin To Net: NetName=NetD1_11 Pin=D1-11
+Added Pin To Net: NetName=NetD1_11 Pin=D2-4
+Added Pin To Net: NetName=NetD1_11 Pin=D2-5
+Added Net: Name=NetD1_11
+Added Pin To Net: NetName=NetD1_12 Pin=D1-12
+Added Pin To Net: NetName=NetD1_12 Pin=D1-13
+Added Pin To Net: NetName=NetD1_12 Pin=D3-8
+Added Net: Name=NetD1_12
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=D3-1
+Added Pin To Net: NetName=NetD2_3 Pin=D3-2
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetD2_8 Pin=D2-8
+Added Pin To Net: NetName=NetD2_8 Pin=D3-12
+Added Net: Name=NetD2_8
+Added Pin To Net: NetName=NetD2_11 Pin=D2-11
+Added Pin To Net: NetName=NetD2_11 Pin=D3-4
+Added Net: Name=NetD2_11
+Added Class: Name=Принципиальная электрическая схема
+Added Class: Name=BAS [1..10]
+Added Room: Name=Принципиальная электрическая схема
